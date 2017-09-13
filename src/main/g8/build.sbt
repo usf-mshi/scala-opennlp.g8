@@ -7,5 +7,5 @@ lazy val root = (project in file(".")).
     )),
     name := "scala-opennlp",
 
-    libraryDependencies += "org.apache.opennlp" % "opennlp-tools" % "1.8.1",
+    libraryDependencies += "org.apache.opennlp" % "opennlp-tools" % "1.8.1"
   )
